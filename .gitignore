@@ -1,6 +1,2 @@
 .env/
-MSA Source Code/cmu_mosi
-MSA Source Code/mmsdk
-MSA Source Code/input
-MSA Source Code/custom_mosi.pickle
-MSA Source Code/nlpword2vecembeddingspretrained
+MSA Source Code/mosi_data.pkl
