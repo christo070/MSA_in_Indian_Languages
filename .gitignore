@@ -1,2 +1,2 @@
-.env/
-MSA Source Code/mosi_data.pkl
+.venv/
+src/dataset/mosi_data.pkl
