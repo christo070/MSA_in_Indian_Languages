@@ -1,4 +1,4 @@
-# Multi-Modal Sentiment Analysis on CMU-MOSI Dataset
+# Multi-Modal Sentiment Analysis on Indian Languages
 
 If you couldn't get `mosi_data.pkl` as mentioned in Reference 3, you can download from Gdrive in Reference Link 4 or 5. 
 
