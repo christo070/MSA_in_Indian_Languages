@@ -2,3 +2,4 @@
 src/dataset/mosi_data.pkl
 datasets/
 models/
+.vscode/
