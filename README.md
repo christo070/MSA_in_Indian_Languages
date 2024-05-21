@@ -1,4 +1,4 @@
-# MultiModal Sentiment Analysis on Indian Languages
+# MultiModal Sentiment Analysis in Indian Languages
 
 Implementation of Dense Fusion Network with
 MultiModal Residual (DFMR) for native indian languages like Malayalam
