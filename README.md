@@ -11,6 +11,7 @@ or unclear scenarios.
 For More Information, refer [docs](./docs/)
 
 ### Project Structure
+```
 MSA/
 ├── data/
 │   ├── raw/                 # Raw, unprocessed data
@@ -67,7 +68,7 @@ MSA/
 ├── requirements.txt         # Pip requirements file for dependencies
 ├── README.md                # Main project documentation
 └── .gitignore               # Git ignore file
-
+```
 
 ### References
 - [Dense Fusion Network with MultiModal Residual (DFMR)](https://ieeexplore.ieee.org/document/9428321)
