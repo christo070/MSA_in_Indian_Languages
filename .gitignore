@@ -1,5 +1,5 @@
 .venv/
-src/dataset/mosi_data.pkl
-datasets/
+data/raw/MOSI/mosi_data.pkl
+data/raw/DravidianMultiModality/
 models/
 .vscode/
